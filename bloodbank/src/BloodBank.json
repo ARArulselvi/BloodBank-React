@@ -1,0 +1,34 @@
+{
+  "bloodDonors": [
+    {
+      "id": 101,
+      "donorName": "Ramesh",
+      "bloodGroup": "opos",
+      "phoneNum": "789654123",
+      "lastDonated": "2019-06-12"
+    },
+    {
+      "id": 102,
+      "donorName": "Suresh",
+      "bloodGroup": "bpos",
+      "phoneNum": "789654145",
+      "lastDonated": "2019-07-12"
+    },
+    {
+      "id": 103,
+      "donorName": "Rakesh",
+      "bloodGroup": "abpos",
+      "phoneNum": "789654783",
+      "lastDonated": "2019-06-12"
+    },
+    {
+      "id": "4",
+      "donorName": "er",
+      "bloodGroup": "gh",
+      "phoneNum": "fr",
+      "lastDonated": "2019-07-24"
+    }
+  ],
+  "hospitals": [],
+  "sponsors": []
+}
